@@ -5,6 +5,7 @@
 git clone https://github.com/Khoacannotcode/react-state-simple-clock.git
 cd react-state-simple-clock
 ```
+
 ## Run the code
 - On your web browser, input the localhost:
 ```
