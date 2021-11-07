@@ -1,5 +1,6 @@
 # My simple project using state (React)
 
+In this repository, I have created a simple clock using state on React.
 ## Clone the repository
 ```
 git clone https://github.com/Khoacannotcode/react-state-simple-clock.git
